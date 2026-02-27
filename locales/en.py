@@ -1,0 +1,15 @@
+texts = {
+    "title": "Inari Localization Helper",
+    "select_folder": "Please select the image folder",
+    "browse": "Browse",
+    "opacity_label": "Set Overlay Opacity",
+    "current_val": "Current",
+    "rename_only": "Rename",
+    "psd_only": "Export PSD",
+    "run_all": "One-Click Automation",
+    "log_start": "--- Task Started ---",
+    "log_rename": "Starting renaming task...",
+    "log_psd": "Generating PSDs",
+    "log_finish": "✨ Task Completed!",
+    "err_no_path": "❌ Please select a folder first!",
+}

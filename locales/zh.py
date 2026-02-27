@@ -1,0 +1,15 @@
+texts = {
+    "title": "稻荷汉化助手",
+    "select_folder": "请选择包含图片的文件夹",
+    "browse": "浏览文件夹",
+    "opacity_label": "设置辅助层不透明度",
+    "current_val": "当前值",
+    "rename_only": "批量重命名",
+    "psd_only": "导出辅助 PSD",
+    "run_all": "一键执行",
+    "log_start": "--- 任务启动 ---",
+    "log_rename": "正在开始重命名任务...",
+    "log_psd": "正在生成 PSD",
+    "log_finish": "✨ 所有任务已结束！",
+    "err_no_path": "❌ 请先选择文件夹！",
+}

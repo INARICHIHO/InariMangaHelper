@@ -1,0 +1,15 @@
+texts = {
+    "title": "稲荷翻訳アシスタント",
+    "select_folder": "画像フォルダを選択してください",
+    "browse": "参照",
+    "opacity_label": "補助レイヤーの不透明度設定",
+    "current_val": "現在の値",
+    "rename_only": "リネーム実行",
+    "psd_only": "補助用PSD書き出し",
+    "run_all": "一括実行",
+    "log_start": "--- タスク開始 ---",
+    "log_rename": "リネーム処理中...",
+    "log_psd": "PSDファイルを作成中",
+    "log_finish": "✨ すべてのタスクが完了しました！",
+    "err_no_path": "❌ フォルダを選択してください！",
+}
